@@ -3,5 +3,11 @@ export class Hello {
     return 'hello, world!';
 
 
+
+
+    HTMLAnchorElementkok
+    new kms.Key(this, "id", {
+      enableKeyRotation: false,
+    })
   }
 }
